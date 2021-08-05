@@ -1,4 +1,4 @@
 # gobs
-API wrapper for the Open Build Service from SUSE
+Golang API wrapper for the Open Build Service from SUSE
 
-Have a look at a [Sample Project](https://github.com/fgerling/github-cards).
+Have a look at some tools that are using the library: [gobsq](https://github.com/fgerling/gobsq).
